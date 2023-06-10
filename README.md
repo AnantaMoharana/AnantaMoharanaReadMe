@@ -1,12 +1,14 @@
 Hello!
 
-My name is <a href="https://anantamoharana.github.io/" target="_blank">Ananta Moharana</a>. I am a senior at Rutgers University (graduating May 2022), majoring in Computer Science and minoring in Mathematics.
+My name is <a href="https://anantamoharana.github.io/" target="_blank">Ananta Moharana</a>. I am an honors computer science graduate from Rutgers University!
 
-Most recently, in Summer 2021, I interned at Pfizer as a Data Management and Monitoring Intern, under the Global Biometrics and Data Management department. Specifically, I worked with the database build and programming team!
+Most recently I was a Software Engineer at Zoom where I worked as a Site Reliability Engineer on Zooms integrations and developer apis
+
+Prior to Zoom, in Summer 2021, I interned at Pfizer as a Data Engineering Intern, under the Global Biometrics and Data Management team. Specifically, I worked with clinical trial data for ongoing clincal trials!
 
 Besides that, in Summer 2020 I was a Software Engineering Intern at Finacle Soft Inc., a finanacial technology start up, on their flagship product Swift CDS, a credit trading an risk analytics tool.
 
-I have also worked at Rutgers University as a Computer Science and Mathematics tutor and I am currently employed as a resident assistant(RA) by the Rutgers Department of Residence Life.
+I have also worked at Rutgers University as a Computer Science and Mathematics tutor and a resident assistant(RA) at Rutgers University.
 
 Outside of school and work I like to stay active. I particularly enjoy powerlifting and bike riding!
 
