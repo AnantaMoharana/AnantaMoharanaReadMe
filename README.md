@@ -2,7 +2,7 @@ Hello!
 
 My name is <a href="https://anantamoharana.github.io/" target="_blank">Ananta Moharana</a>. I am an honors computer science graduate from Rutgers University!
 
-Most recently I was a Software Engineer at Zoom where I worked as a Site Reliability Engineer on Zooms integrations and developer apis
+Most recently I was a Software Engineer at Zoom where I worked as a Software Engineer.
 
 Prior to Zoom, in Summer 2021, I interned at Pfizer as a Data Engineering Intern, under the Global Biometrics and Data Management team. Specifically, I worked with clinical trial data for ongoing clincal trials!
 
